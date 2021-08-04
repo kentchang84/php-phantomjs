@@ -19,10 +19,10 @@
         "symfony/filesystem": "~4.0",
         "symfony/yaml": "~4.0",
         "twig/twig": "~2",
-        "jakoch/phantomjs-installer": "2.1.1-p08"
+        "jakoch/phantomjs-installer": "^3"
     },
     "require-dev": {
-        "phpunit/phpunit": "~5.0",
+        "phpunit/phpunit": "~9.0",
         "zendframework/zendpdf": "~2.0",
         "smalot/pdfparser": "~0.9"
     },
